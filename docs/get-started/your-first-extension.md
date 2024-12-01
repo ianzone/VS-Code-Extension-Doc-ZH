@@ -24,6 +24,7 @@ yo code
 
 code ./helloworld
 ```
+`注意：` 若选用 `esbuild` 作为 `bundler`，则需要安装 `connor4312.esbuild-problem-matchers` 插件。
 
 完成后进入 VS Code，按下`F5`，你会立即看到一个**插件发开主机**窗口，其中就运行着插件。
 
